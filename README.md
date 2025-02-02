@@ -1,6 +1,4 @@
-# Calculator
- 
-### **Basic Calculator – Android App (Java, Android Studio)**  
+# Basic Calculator – Android App (Java, Android Studio) 
 
 This is a **simple and user-friendly calculator app** built using **Java** in **Android Studio**. It performs basic arithmetic operations like **addition, subtraction, multiplication, and division** with a clean and responsive UI.  
 
